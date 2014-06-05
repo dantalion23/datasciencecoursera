@@ -1,2 +1,2 @@
-readme file for datasciencecoursera repo
+README file for datasciencecoursera repo
 ========================================
